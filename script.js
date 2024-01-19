@@ -4,7 +4,7 @@ const person = {
 
     Name: "Muhammad Qasim",
     designation: "Owner ",
-    des_link_text: "@Frij Murar Tailoring & Embroidery@",
+    des_link_text: "@Frij Murar Tailoring & Embroidery",
     des_link: "",
     contact: "./contact/frij.vcf",
 };
