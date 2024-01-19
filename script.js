@@ -4,16 +4,16 @@ const person = {
 
     Name: "Muhammad Qasim",
     designation: "Owner ",
-    des_link_text: "@Philadelphia Tailoring & Embroidery",
+    des_link_text: "@Frij Murar Tailoring & Embroidery@",
     des_link: "",
-    contact: "./contact/phila.vcf",
+    contact: "./contact/frij.vcf",
 };
 
 const contact ={
-    contact_no: "+971553393996",
-    whatsapp: "+971553393996",
-    location: "https://maps.app.goo.gl/wfzQPDQc9mZFbKR9A",
-    email: "philadelphiatailors@gmail.com",
+    contact_no: "+971504256361",
+    whatsapp: "+971504256361",
+    location: "",
+    email: "qasimjamil33@gmail.com",
 };
 
 const profilelogo=[
@@ -59,11 +59,11 @@ const links =[
   },
     mail={
     visibil: true,
-    link:"iq786pk@yahoo.com"
+    link:"qasimjamil33@gmail.com"
   },
     google={
-    visibil: true,
-    link:"https://maps.app.goo.gl/uWdgB8YCtC2WtUuJ8"
+    visibil: false,
+    link:"https://maps.app.goo.gl/wfzQPDQc9mZFbKR9A"
   },
     telegram={
     visibil: false,
