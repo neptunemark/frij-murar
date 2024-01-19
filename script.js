@@ -4,16 +4,16 @@ const person = {
 
     Name: "Muhammad Qasim",
     designation: "Owner ",
-    des_link_text: "@Jamil Tailoring & Embroidery",
+    des_link_text: "@Philadelphia Tailoring & Embroidery",
     des_link: "",
-    contact: "./contact/jamil.vcf",
+    contact: "./contact/phila.vcf",
 };
 
 const contact ={
-    contact_no: "+971556948948",
-    whatsapp: "+971556948948",
-    location: "https://maps.app.goo.gl/uWdgB8YCtC2WtUuJ8",
-    email: "qasimjamil33@gmail.com",
+    contact_no: "+971553393996",
+    whatsapp: "+971553393996",
+    location: "https://maps.app.goo.gl/wfzQPDQc9mZFbKR9A",
+    email: "philadelphiatailors@gmail.com",
 };
 
 const profilelogo=[
